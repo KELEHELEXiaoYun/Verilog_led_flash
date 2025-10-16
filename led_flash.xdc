@@ -1,0 +1,6 @@
+set_property IOSTANDARD LVCMOS33 [get_ports Clk]
+set_property IOSTANDARD LVCMOS33 [get_ports Led]
+set_property IOSTANDARD LVCMOS33 [get_ports Reset_n]
+set_property PACKAGE_PIN F15 [get_ports Reset_n]
+set_property PACKAGE_PIN Y18 [get_ports Clk]
+set_property PACKAGE_PIN M22 [get_ports Led]
